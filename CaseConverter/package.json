@@ -2,5 +2,5 @@
   "name": "com.go-miles.caseconverter",
   "version": "1.0.0",
   "displayName": "Case Converter for Unity",
-  "description": "Fork of markcastle/CaseConverter.\nSimple string extension library designed to make it easy to convert strings between different cases such as camelCase, snake_case, kebab-case, PascalCase and Train-Case."
+  "description": "Fork of markcastle/CaseConverter.\n\nSimple string extension library designed to make it easy to convert strings between different cases such as camelCase, snake_case, kebab-case, PascalCase and Train-Case."
 }
